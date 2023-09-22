@@ -1,0 +1,9 @@
+#root {
+  width: 100%;
+}
+
+.json-viewer-container {
+  height: 400px;
+  overflow: auto;
+  font-size: 14px;
+}
